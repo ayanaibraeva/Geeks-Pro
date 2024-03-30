@@ -1,0 +1,15 @@
+.pagination {
+  margin-left: 38%;
+  button{
+    width: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+    background-color: #609aa4;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
+  }
+  span{
+    margin: 10px;
+  }
+}
